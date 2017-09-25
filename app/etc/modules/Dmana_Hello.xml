@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Dmana_Hello>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Dmana_Hello>
+    </modules>
+</config>
